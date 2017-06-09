@@ -1,5 +1,2 @@
-git clone https://github.com/hamedserver/hamedtabchi.git
-cd hamedtabchi
-chmod +x bot
-./bot install
+git clone https://github.com/hamedserver/hamedtabchi.git && cd hamedtabchi && chmod +x bot && ./bot install
 
